@@ -35,7 +35,7 @@ body {
     font-weight: bold;
 
   }
-  
+  /*past, present, & future block styling*/
   .past {
     background-color: #adacac;
     color: #e920a6;
@@ -50,7 +50,7 @@ body {
     background-color: #77dd77;
     color: #e920a6;
   }
-  
+  /*save button styling*/
   .saveBtn {
     border-left: 1px solid #e920a6;
     border-top-right-radius: 15px;
